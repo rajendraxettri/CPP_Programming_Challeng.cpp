@@ -13,7 +13,7 @@ void checkNum(){
         cout<<"Given number is Positive !";
     }
     else if(num=0){
-        cout<<"Given number is nither negative nor posative !";
+        cout<<"Given number is nither negative nor positive !";
     }else{
         cout<<"Given number is Negative !";
     }
